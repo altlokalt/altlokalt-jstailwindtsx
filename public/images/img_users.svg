@@ -1,0 +1,61 @@
+<svg width="296" height="56" viewBox="0 0 296 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="28" cy="28" r="28" fill="white"/>
+<circle cx="28" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask0_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="3" y="3" width="50" height="50">
+<circle cx="28" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask0_47_131675)">
+</g>
+<circle cx="58" cy="28" r="28" fill="white"/>
+<circle cx="58" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask1_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="33" y="3" width="50" height="50">
+<circle cx="58" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask1_47_131675)">
+</g>
+<circle cx="88" cy="28" r="28" fill="white"/>
+<circle cx="88" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask2_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="63" y="3" width="50" height="50">
+<circle cx="88" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask2_47_131675)">
+</g>
+<circle cx="118" cy="28" r="28" fill="white"/>
+<circle cx="118" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask3_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="93" y="3" width="50" height="50">
+<circle cx="118" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask3_47_131675)">
+</g>
+<circle cx="148" cy="28" r="28" fill="white"/>
+<circle cx="148" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask4_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="123" y="3" width="50" height="50">
+<circle cx="148" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask4_47_131675)">
+</g>
+<circle cx="178" cy="28" r="28" fill="white"/>
+<circle cx="178" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask5_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="153" y="3" width="50" height="50">
+<circle cx="178" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask5_47_131675)">
+</g>
+<circle cx="208" cy="28" r="28" fill="white"/>
+<circle cx="208" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask6_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="183" y="3" width="50" height="50">
+<circle cx="208" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask6_47_131675)">
+</g>
+<circle cx="238" cy="28" r="28" fill="white"/>
+<circle cx="238" cy="28" r="25" fill="#DFDFED"/>
+<mask id="mask7_47_131675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="213" y="3" width="50" height="50">
+<circle cx="238" cy="28" r="25" fill="white"/>
+</mask>
+<g mask="url(#mask7_47_131675)">
+</g>
+<circle cx="268" cy="28" r="28" fill="#3F42C7"/>
+<path d="M267.999 18V38" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M258 28.0033H278" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
